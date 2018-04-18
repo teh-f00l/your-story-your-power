@@ -4,3 +4,8 @@ I am designing a game/simulation where must mobilize a community to fight corrup
 
 
 For people used to working with abstract systems and design thinking, I want to bring lived experience of those impacted by their decisions into light. Working with others facing similar injustice has given my work a transformative urgency , while learning to think in systems from art+tech circles allows me to see how me to see what I actions I can take, knowing my own stake in a cause.
+
+
+The game will be running on the LiSE engine currently being developed by LogicalDash(Zachary Spector): You can see it here:
+
+https://github.com/LogicalDash/LiSE
